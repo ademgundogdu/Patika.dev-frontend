@@ -1,0 +1,26 @@
+#başlik {
+    color: red;
+    font-size: 30px;
+}
+#paragraf {
+    width: 100%;
+}
+#tarif {            
+    width: 50% ;
+    float: right;
+}
+#renk {
+    color: red;
+ }
+ h1 {
+    display: inline-block;
+    height: 20%;
+    background-color: red;
+    font-size: 20px;            
+ }
+
+ h2 {
+    
+    width: 30%;            
+    float: right;
+ }
